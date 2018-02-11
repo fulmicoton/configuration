@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install nvim xclip 
+sudo apt-get install neovim xclip 
